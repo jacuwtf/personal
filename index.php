@@ -18,7 +18,7 @@
           <a style="text=size:18; opacity 1.5; color: rgb(128,28,228); font-family: monospace" onmousedown="projects.open():>  Projects < </a>
 
        </center>
-</body>
+       </body>
 
 <script>
    function discord.open() {
@@ -27,7 +27,7 @@
     
 
    function projects.open() {
-    window.open("projects");
+    window.open("projects.html");
    }
 
 </script>
