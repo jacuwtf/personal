@@ -184,7 +184,7 @@ span:hover{
   border-style: solid;
   border-width: 0.1px;
   height:30px;
-  border-color: darkgray;
+  border-color: rgb(0, 0, 0);
   text-align: center;
   width:450px;
   margin-bottom:10px;
@@ -299,13 +299,13 @@ span:hover{
 }
 
 #sql:hover{
-  color:#A6A6A6;
+  color:#2c2c2c;
   cursor: pointer;
 
 }
 
 i:hover{
-  box-shadow: 0px 8px 50px darkgrey;
+  box-shadow: 0px 8px 50px rgb(15, 15, 15);
   transform: scale(1.20);
   cursor: pointer;
 }
