@@ -9,6 +9,8 @@ html,body{
   font-family: 'Space Mono', monospace;
   line-height: 1.7em;
   scroll-behavior: smooth;
+  background-color: #181a1d;
+  color: #fff;
 }
 
 .main_head{
