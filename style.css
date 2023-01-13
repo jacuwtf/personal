@@ -9,8 +9,6 @@ html,body{
   font-family: 'Space Mono', monospace;
   line-height: 1.7em;
   scroll-behavior: smooth;
-  background-color: #181a1d;
-  color: #fff;
 }
 
 .main_head{
@@ -57,12 +55,12 @@ span:hover{
 }
 
 .title{
-  color:black;
+  color:white;
   transition: 0.3s all;
 }
 
 .title_a{
-  color:black;
+  color:white;
   transition: 0.3s all;
 }
 
@@ -174,7 +172,7 @@ span:hover{
 }
 
 .projects_main a{
-  color:black;
+  color:white;
   text-decoration:none;
 }
 
@@ -286,7 +284,7 @@ span:hover{
 }
 
 #terminal:hover{
-  color:#000000;
+  color:white;
   cursor: pointer;
 }
 
@@ -353,7 +351,7 @@ i:hover{
 }
 
 .contact_list a{
-  color:black;
+  color:white;
   text-docoration:none;
 }
 
@@ -385,7 +383,7 @@ i:hover{
 }
 
 .dark-mode:hover{
-  color:black;
+  color:white;
 }
 
 
